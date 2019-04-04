@@ -25,7 +25,7 @@
       '/interns/current' => 'current.php',
       '/become-intern' => 'become-intern.php',
       '/template' => 'interns/template.php',
-      '/test' => 'interns/test.php'
+      '/mightonic' => 'interns/mightonic.php'
   ]);
   $request = $_SERVER['REQUEST_URI'];
   if (strlen($request) > 1) {
